@@ -1,0 +1,10 @@
+welcome: Welcome, to my house price app. What would you like me to do?
+reprompt: I didn't quite get that. Please state again what you would like me to search.
+
+city_year: The average {{type_of_house}} house prices for {{city}} in the year {{year}} is {{answer}} dollars
+state_year: The average {{type_of_house}} house prices for {{state}} in the year {{year}} is {{answer}} dollars
+
+city_only: The average {{type_of_house}} house prices for {{city}} from 2012 to 2017 is {{answer}} dollars
+state_only: The average {{type_of_house}} house prices for {{state}} from 2012 to 2017 is {{answer}} dollars
+
+reprompt_general: I didn't quite understand that. Please state again what you would like me to do.
